@@ -1,16 +1,11 @@
-# markdown_editor_test
+# How to run the project
+## Requirements
+- sdk: ">=3.5.2" and flutter: ">=3.24.2"
+## Steps
+1. Clone the repository
+2. Run `flutter pub get`
+3. Select a avd (android virtual device) or a physical device
+4. Click run and debug if using vscode
+    
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
